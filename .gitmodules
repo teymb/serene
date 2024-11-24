@@ -1,0 +1,6 @@
+[submodule "hermit_zola"]
+	path = hermit_zola
+	url = https://github.com/VersBinarii/hermit_zola
+[submodule "serene"]
+	path = serene
+	url = https://github.com/isunjn/serene
